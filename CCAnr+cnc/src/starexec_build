@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd CCAnr+cnc_source_code/
+make
+cp CCAnr+cnc ../bin/
